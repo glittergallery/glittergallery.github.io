@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Rokkitt, serif;
+    font-size: 1.5em;
+    margin: 0; 
+    padding: 0;
+}
+
+body > header {
+    width: 100%;
+    color: white;
+    text-align: center;
+    background-image: url('../img/star.png'),
+                      radial-gradient(farthest-corner at 25% 60%, #278bd9 0%, #008080 100%);
+}
+
+body > header hgroup {
+    padding: 4rem 0;
+}
+
+body > header h1 {
+    font-family: "Fredericka the Great", cursive;
+    font-weight: normal;
+    font-size: 6rem;
+    margin: 1rem;
+}
+
+body > header h2 {
+    font-weight: normal;
+    font-size: 2rem;
+}
+
+section {
+    text-align: center;
+    padding: 2rem;
+}
+
+section:nth-child(2n+1) {
+    background: rgba(17, 111, 133, .18) url('../img/star-more.png');
+}

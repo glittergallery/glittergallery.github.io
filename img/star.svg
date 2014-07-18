@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="350"
+   height="350"
+   id="svg9251"
+   version="1.1"
+   inkscape:version="0.91pre0 r13343"
+   viewBox="0 0 350 350"
+   sodipodi:docname="star.svg"
+   inkscape:export-filename="/home/emily/Devel/Glitter Gallery/glittergallery.github.io/img/star.png"
+   inkscape:export-xdpi="8"
+   inkscape:export-ydpi="8">
+  <defs
+     id="defs9253" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#b5b5b5"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-259.55572"
+     inkscape:cy="134.01567"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata9256">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-151.69857,-316.37786)">
+    <path
+       sodipodi:type="star"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.83699999;fill:#ffffff;fill-opacity:0.09497208;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="path7573"
+       sodipodi:sides="4"
+       sodipodi:cx="-3341.9006"
+       sodipodi:cy="-1510.394"
+       sodipodi:r1="250.136"
+       sodipodi:r2="16.530437"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.3561945"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -3341.9006,-1260.258 -11.6888,-238.4473 -238.4472,-11.6887 238.4472,-11.6888 11.6888,-238.4472 11.6887,238.4472 238.4473,11.6888 -238.4473,11.6887 z"
+       inkscape:transform-center-x="-2.1897878e-05"
+       inkscape:tile-cx="-3407.6149"
+       inkscape:tile-cy="-1584.6797"
+       inkscape:tile-w="353.74573"
+       inkscape:tile-h="353.74573"
+       inkscape:tile-x0="-3584.4877"
+       inkscape:tile-y0="-1761.5525"
+       transform="matrix(0.69961939,0.69961939,-0.69961939,0.69961939,1608.0561,3886.1373)"
+       inkscape:transform-center-y="3.3442285e-05" />
+    <path
+       inkscape:transform-center-y="3.3442285e-05"
+       transform="matrix(0.69961939,0.69961939,-0.69961939,0.69961939,1608.0561,3886.1373)"
+       inkscape:tile-y0="-1761.5525"
+       inkscape:tile-x0="-3584.4877"
+       inkscape:tile-h="353.74573"
+       inkscape:tile-w="353.74573"
+       inkscape:tile-cy="-1584.6797"
+       inkscape:tile-cx="-3407.6149"
+       inkscape:transform-center-x="-2.1897878e-05"
+       d="m -3341.9006,-1260.258 -11.6888,-238.4473 -238.4472,-11.6887 238.4472,-11.6888 11.6888,-238.4472 11.6887,238.4472 238.4473,11.6888 -238.4473,11.6887 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="2.3561945"
+       sodipodi:arg1="1.5707963"
+       sodipodi:r2="16.530437"
+       sodipodi:r1="250.136"
+       sodipodi:cy="-1510.394"
+       sodipodi:cx="-3341.9006"
+       sodipodi:sides="4"
+       id="path9828"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.83699999;fill:#ffffff;fill-opacity:0.09497208;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       sodipodi:type="star" />
+  </g>
+</svg>
