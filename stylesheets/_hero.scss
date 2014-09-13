@@ -1,0 +1,46 @@
+@media screen and (min-width: 0em){
+		.wrapper{
+			article.hero{
+				header{
+					background-color: $map_blue;
+					margin: 0;
+					padding-top: 2.25em;
+					h1{
+						background-color: $map_blue;
+						text-align: center;
+						font-size: 2.5em;
+						color: white;
+					}
+					h2{
+						padding: 0 1em 1em 1em;
+						background-color: $map_blue;
+						color: $geometry_gray;
+						text-align: center;
+						font-size: 1.5em;
+					}
+				}
+				section{
+					div.demo{
+						p{
+							font-size: 1.2em;
+							padding: 1em;
+						}
+
+					}
+				}
+			}
+		}
+	}
+
+
+@media screen and (min-width: 64.063em){
+	body{
+		.wrapper{
+			aside.widget{
+				div.asidewrapper{
+					margin-top: 0;
+				}
+			}
+		}
+	}
+}

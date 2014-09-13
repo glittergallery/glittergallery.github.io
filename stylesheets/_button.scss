@@ -1,0 +1,17 @@
+@media screen and (min-width: 0em){
+	a.button{
+		@include center;
+		background-color: $map_blue;
+		color: white;
+		font-weight: bold;
+		padding: 1em;
+		@include border-radius(1em);
+		text-decoration: none;
+		text-align: center;
+	}
+	a.button:hover{
+		background-color: $dark_geometry_gray;
+		color: $map_blue;
+		border: solid 0.1em $map_blue;
+	}
+}
